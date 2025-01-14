@@ -1,6 +1,5 @@
 # 💫 About Me: 
-Web Developer & Data Analyst | Versatile Entrepreneur | Founder @PakSaaf 🍃
-<br>
+Web Developer & Data Analyst | Versatile Entrepreneur | Founder @PakSaaf 🍃<br>
 
 
 # 💻 Tech Stack:
