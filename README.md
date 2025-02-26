@@ -1,5 +1,5 @@
 # 💫 About Me: 
-Web Developer & Data Analyst | Versatile Entrepreneur | Founder @PakSaaf 🍃<br>
+Exploring as many Domains of Life as I can | Powering Digital Solutions with AI Agents | Web Developer & Data Analyst exploring latest Technologies | Founder @PakSaaf 🍃<br>
 
 
 # 💻 Tech Stack:
