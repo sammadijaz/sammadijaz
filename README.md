@@ -1,7 +1,7 @@
 # 💫 About Me: 
 # Hi, I'm Sammad Ijaz 👋
 
-Founder, builder, and AI-assisted software engineer from Pakistan.
+Founder, builder, and AI-assisted software engineer.
 
 I enjoy turning ideas into real products and learning by building. My work focuses on SaaS, AI, automation, web applications, browser extensions, and developer tools.
 
