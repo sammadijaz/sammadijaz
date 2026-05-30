@@ -1,15 +1,15 @@
 # 💫 About Me: 
 # Hi, I'm Sammad Ijaz 👋
 
-Founder, builder, and AI-assisted software engineer.
+Founder, builder, and AI-assisted software engineer from Pakistan.
 
 I enjoy turning ideas into real products and learning by building. My work focuses on SaaS, AI, automation, web applications, browser extensions, and developer tools.
 
 ### Projects
 
-* **ArcaneRP** - A social roleplay platform for writers, anime fans, and OC creators available on Web and Android.
+* **ArcaneRP** - A social roleplay platform for writers, anime fans, and OC creators available on Web and Android. Reached **1,200+ registered users** and **1,500+ Android installs** in just one month.
 * **Grabs AI** - A lead generation and business intelligence platform that discovers and enriches business data at scale.
-* **AutoCod** - A Chrome extension for high-quality website recording, screenshots, and content capture.
+* **AutoCod** - A Chrome extension for high-quality website recording, screenshots, and content capture. Used by professionals from companies including **Yahoo Finance**, **Wix**, and other organizations. Reached **200+ signups** and **105+ monthly active users** and growing.
 * **Pak Saaf** - A consumer product brand focused on packaged food products.
 
 ### Tech & Interests
