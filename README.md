@@ -7,7 +7,7 @@ I enjoy turning ideas into real products and learning by building. My work focus
 
 ### Projects
 
-* **ArcaneRP** - A social roleplay platform for writers, anime fans, and OC creators available on Web and Android. Reached **1,200+ registered users** and **1,500+ Android installs** in just one month.
+* **ArcaneRP** - A social roleplay platform for writers, anime fans, and OC creators available on Web and Android. Reached **1,600+ registered users** and **2,150+ Android installs** in just one month.
 * **Grabs AI** - A lead generation and business intelligence platform that discovers and enriches business data at scale.
 * **AutoCod** - A Chrome extension for high-quality website recording, screenshots, and content capture. Used by professionals from companies including **Yahoo Finance**, **Wix**, and other organizations. Reached **200+ signups** and **105+ monthly active users** and growing.
 * **Pak Saaf** - A consumer product brand focused on packaged food products.
